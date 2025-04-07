@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "title": "TrackTravel - Проследяване на вашите ваканции",
+    "description": "Проследявайте вашите ваканции, маршрути и планове за пътуване с TrackTravel"
+  },
+  "navigation": {
+    "dashboard": "Табло",
+    "bookings": "Резервации",
+    "wishlist": "Желани",
+    "support": "Поддръжка",
+    "getMobileApp": "Изтеглете приложението"
+  },
+  "transportation": {
+    "plane": "Самолет",
+    "train": "Влак",
+    "ship": "Кораб",
+    "bus": "Автобус",
+    "car": "Кола",
+    "walking": "Пеша",
+    "motorcycle": "Мотор"
+  },
+  "dashboard": {
+    "welcome": "Добре дошли отново, Алекс",
+    "trackVacations": "Проследявайте вашите ваканции и предстоящи пътувания.",
+    "exploreDestinations": "Разгледайте нови дестинации",
+    "tabs": {
+      "upcoming": "Предстоящи",
+      "active": "Активни",
+      "past": "Минали"
+    },
+    "vacationStatus": {
+      "confirmed": "Потвърдена",
+      "pending": "В очакване",
+      "inProgress": "В процес",
+      "completed": "Завършена",
+      "departureIn": "Заминаване след",
+      "days": "дни",
+      "day": "Ден",
+      "of": "от"
+    },
+    "actions": {
+      "viewDetails": "Преглед на детайли",
+      "viewItinerary": "Преглед на маршрут",
+      "viewPhotos": "Преглед на снимки",
+      "review": "Отзив",
+      "selectDate": "Изберете дата",
+      "viewOnMap": "Виж на картата",
+      "mapsAndRoutes": "Карти и маршрути",
+      "createRoute": "Създай маршрут",
+      "downloadOfflineMap": "Изтегли офлайн карта"
+    },
+    "mobileApp": {
+      "getApp": "Вземете мобилното приложение TrackTravel",
+      "description": "Проследявайте вашите ваканции в движение, получавайте актуализации в реално време и достъп до документите си офлайн.",
+      "appStore": "App Store",
+      "googlePlay": "Google Play",
+      "scanToDownload": "Сканирайте за изтегляне"
+    },
+    "newsletter": {
+      "title": "Туристически Бюлетин",
+      "description": "Абонирайте се, за да получавате персонализирани предложения за пътувания",
+      "subscribe": "Абонирайте се за бюлетин",
+      "preferences": "Предпочитания за бюлетин",
+      "email": "Имейл адрес",
+      "emailPlaceholder": "Въведете вашия имейл",
+      "tourTypes": "Типове турове",
+      "frequency": "Честота на имейлите",
+      "daily": "Ежедневно",
+      "weekly": "Седмично",
+      "monthly": "Месечно",
+      "categories": {
+        "adventure": "Приключенски турове",
+        "cultural": "Културни преживявания",
+        "beach": "Плажни ваканции",
+        "city": "Градски почивки",
+        "cruise": "Круизи",
+        "mountain": "Планински почивки",
+        "luxury": "Луксозни пътувания",
+        "budget": "Изгодни пътувания"
+      },
+      "successMessage": "Абонирахте се за нашия бюлетин!",
+      "manageSubscription": "Управление на абонамент"
+    },
+    "photoGallery": {
+      "title": "Фото Галерия",
+      "description": "Преглед и управление на вашите снимки от ваканцията",
+      "addPhotos": "Добави Снимки",
+      "view": "Преглед в пълен размер",
+      "fromGallery": "От галерията",
+      "fromFiles": "От файлове",
+      "takePhoto": "Направи снимка",
+      "remove": "Премахни",
+      "download": "Изтегли",
+      "photoPreview": "Преглед на снимка",
+      "clickToView": "Кликнете за преглед"
+    },
+    "review": {
+      "title": "Отзив",
+      "description": "Споделете вашите впечатления от тази ваканция",
+      "placeholder": "Напишете вашия отзив тук...",
+      "submit": "Изпрати",
+      "cancel": "Отказ"
+    },
+    "vacations": {
+      "greekIslandsCruise": "Круиз по гръцките острови",
+      "alpineSkiResort": "Алпийски ски курорт",
+      "tokyoAdventure": "Приключение в Токио",
+      "baliBeachResort": "Плажен курорт Бали",
+      "parisWeekend": "Уикенд в Париж",
+      "newYorkCity": "Ню Йорк"
+    },
+    "locations": {
+      "athens": "Атина, Гърция",
+      "chamonix": "Шамони, Франция",
+      "tokyo": "Токио, Япония",
+      "bali": "Бали, Индонезия",
+      "paris": "Париж, Франция",
+      "newYork": "Ню Йорк, САЩ"
+    },
+    "dates": {
+      "greekIslandsCruise": "15 юни - 22 юни, 2025",
+      "alpineSkiResort": "10 декември - 17 декември, 2025",
+      "tokyoAdventure": "5 септември - 15 септември, 2025",
+      "baliBeachResort": "1 април - 10 април, 2025",
+      "parisWeekend": "14 февруари - 16 февруари, 2025",
+      "newYorkCity": "20 декември - 27 декември, 2024"
+    }
+  },
+  "vacationDetails": {
+    "backToDashboard": "Обратно към таблото",
+    "cruiseVacation": "Круизна ваканция",
+    "status": {
+      "confirmed": "Потвърдена",
+      "downloadDocuments": "Изтеглете документи",
+      "contactAgent": "Свържете се с агент"
+    },
+    "tabs": {
+      "overview": "Общ преглед",
+      "itinerary": "Маршрут",
+      "accommodations": "Настаняване",
+      "documents": "Документи"
+    },
+    "overview": {
+      "description": "Описание на ваканцията",
+      "included": "Включено",
+      "notIncluded": "Не е включено"
+    },
+    "itinerary": {
+      "day": "Ден"
+    },
+    "accommodations": {
+      "cabinAmenities": "Удобства в каютата:"
+    },
+    "documents": {
+      "bookingConfirmation": "Потвърждение за резервация",
+      "bookingDetails": "PDF документ с детайли за вашата резервация",
+      "eTickets": "Електронни билети",
+      "ticketsAndPasses": "Вашите круизни билети и бордни карти",
+      "travelInsurance": "Застраховка за пътуване",
+      "insurancePolicy": "Детайли за вашата застрахователна полица",
+      "excursionVouchers": "Ваучери за екскурзии",
+      "excursionDetails": "Ваучери за вашите резервирани екскурзии",
+      "download": "Изтегляне"
+    },
+    "sidebar": {
+      "vacationStatus": "Статус на ваканцията",
+      "paymentInformation": "Информация за плащане",
+      "totalCost": "Обща цена",
+      "depositPaid": "Платен депозит",
+      "remainingBalance": "Оставаща сума",
+      "dueDate": "Краен срок",
+      "makePayment": "Направете плащане",
+      "travelAgent": "Туристически агент",
+      "seniorConsultant": "Старши консултант",
+      "sendMessage": "Изпратете съобщение",
+      "scheduleCall": "Планирайте разговор",
+      "weatherForecast": "Прогноза за времето",
+      "averageTemperatures": "Средни температури за вашите дати на пътуване:",
+      "mobileApp": "Мобилно приложение",
+      "mobileAppDescription": "Получавайте актуализации в реално време и достъп до документите си офлайн с нашето мобилно приложение."
+    }
+  }
+}
+

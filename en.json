@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "title": "TrackTravel - Track Your Vacations",
+    "description": "Track your vacations, itineraries, and travel plans with TrackTravel"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "bookings": "Bookings",
+    "wishlist": "Wishlist",
+    "support": "Support",
+    "getMobileApp": "Get Mobile App"
+  },
+  "transportation": {
+    "plane": "Airplane",
+    "train": "Train",
+    "ship": "Ship",
+    "bus": "Bus",
+    "car": "Car",
+    "walking": "Walking",
+    "motorcycle": "Motorcycle"
+  },
+  "dashboard": {
+    "welcome": "Welcome back, Alex",
+    "trackVacations": "Track your vacations and upcoming trips.",
+    "exploreDestinations": "Explore New Destinations",
+    "tabs": {
+      "upcoming": "Upcoming",
+      "active": "Active",
+      "past": "Past"
+    },
+    "vacationStatus": {
+      "confirmed": "Confirmed",
+      "pending": "Pending",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "departureIn": "Departure in",
+      "days": "days",
+      "day": "Day",
+      "of": "of"
+    },
+    "actions": {
+      "viewDetails": "View Details",
+      "viewItinerary": "View Itinerary",
+      "viewPhotos": "View Photos",
+      "review": "Review",
+      "selectDate": "Select date",
+      "viewOnMap": "View on Map",
+      "mapsAndRoutes": "Maps & Routes",
+      "createRoute": "Create Route",
+      "downloadOfflineMap": "Download Offline Map"
+    },
+    "mobileApp": {
+      "getApp": "Get the TrackTravel Mobile App",
+      "description": "Track your vacations on the go, receive real-time updates, and access your travel documents offline.",
+      "appStore": "App Store",
+      "googlePlay": "Google Play",
+      "scanToDownload": "Scan to download"
+    },
+    "newsletter": {
+      "title": "Travel Newsletter",
+      "description": "Subscribe to receive personalized travel suggestions",
+      "subscribe": "Subscribe to Newsletter",
+      "preferences": "Newsletter Preferences",
+      "email": "Email address",
+      "emailPlaceholder": "Enter your email",
+      "tourTypes": "Tour Types",
+      "frequency": "Email Frequency",
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "categories": {
+        "adventure": "Adventure Tours",
+        "cultural": "Cultural Experiences",
+        "beach": "Beach Vacations",
+        "city": "City Breaks",
+        "cruise": "Cruises",
+        "mountain": "Mountain Retreats",
+        "luxury": "Luxury Getaways",
+        "budget": "Budget-Friendly Trips"
+      },
+      "successMessage": "You've been subscribed to our newsletter!",
+      "manageSubscription": "Manage Subscription"
+    },
+    "photoGallery": {
+      "title": "Photo Gallery",
+      "description": "View and manage your vacation photos",
+      "addPhotos": "Add Photos",
+      "view": "View Full Size",
+      "fromGallery": "From Gallery",
+      "fromFiles": "From Files",
+      "takePhoto": "Take Photo",
+      "remove": "Remove",
+      "download": "Download",
+      "photoPreview": "Photo Preview",
+      "clickToView": "Click to view"
+    },
+    "review": {
+      "title": "Review",
+      "description": "Share your impressions about this vacation",
+      "placeholder": "Write your review here...",
+      "submit": "Submit",
+      "cancel": "Cancel"
+    },
+    "vacations": {
+      "greekIslandsCruise": "Greek Islands Cruise",
+      "alpineSkiResort": "Alpine Ski Resort",
+      "tokyoAdventure": "Tokyo Adventure",
+      "baliBeachResort": "Bali Beach Resort",
+      "parisWeekend": "Paris Weekend",
+      "newYorkCity": "New York City"
+    },
+    "locations": {
+      "athens": "Athens, Greece",
+      "chamonix": "Chamonix, France",
+      "tokyo": "Tokyo, Japan",
+      "bali": "Bali, Indonesia",
+      "paris": "Paris, France",
+      "newYork": "New York, USA"
+    },
+    "dates": {
+      "greekIslandsCruise": "June 15 - June 22, 2025",
+      "alpineSkiResort": "December 10 - December 17, 2025",
+      "tokyoAdventure": "September 5 - September 15, 2025",
+      "baliBeachResort": "April 1 - April 10, 2025",
+      "parisWeekend": "February 14 - February 16, 2025",
+      "newYorkCity": "December 20 - December 27, 2024"
+    }
+  },
+  "vacationDetails": {
+    "backToDashboard": "Back to Dashboard",
+    "cruiseVacation": "Cruise Vacation",
+    "status": {
+      "confirmed": "Confirmed",
+      "downloadDocuments": "Download Documents",
+      "contactAgent": "Contact Agent"
+    },
+    "tabs": {
+      "overview": "Overview",
+      "itinerary": "Itinerary",
+      "accommodations": "Accommodations",
+      "documents": "Documents"
+    },
+    "overview": {
+      "description": "Vacation Description",
+      "included": "Included",
+      "notIncluded": "Not Included"
+    },
+    "itinerary": {
+      "day": "Day"
+    },
+    "accommodations": {
+      "cabinAmenities": "Cabin Amenities:"
+    },
+    "documents": {
+      "bookingConfirmation": "Booking Confirmation",
+      "bookingDetails": "PDF document with your booking details",
+      "eTickets": "E-Tickets",
+      "ticketsAndPasses": "Your cruise tickets and boarding passes",
+      "travelInsurance": "Travel Insurance",
+      "insurancePolicy": "Your travel insurance policy details",
+      "excursionVouchers": "Excursion Vouchers",
+      "excursionDetails": "Vouchers for your booked excursions",
+      "download": "Download"
+    },
+    "sidebar": {
+      "vacationStatus": "Vacation Status",
+      "paymentInformation": "Payment Information",
+      "totalCost": "Total Cost",
+      "depositPaid": "Deposit Paid",
+      "remainingBalance": "Remaining Balance",
+      "dueDate": "Due Date",
+      "makePayment": "Make Payment",
+      "travelAgent": "Travel Agent",
+      "seniorConsultant": "Senior Travel Consultant",
+      "sendMessage": "Send Message",
+      "scheduleCall": "Schedule Call",
+      "weatherForecast": "Weather Forecast",
+      "averageTemperatures": "Average temperatures for your travel dates:",
+      "mobileApp": "Mobile App",
+      "mobileAppDescription": "Get real-time updates and access your travel documents offline with our mobile app."
+    }
+  }
+}
+
